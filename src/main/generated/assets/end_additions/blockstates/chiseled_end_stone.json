@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "end_additions:block/chiseled_end_stone",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "end_additions:block/chiseled_end_stone"
+    },
+    "axis=z": {
+      "model": "end_additions:block/chiseled_end_stone",
+      "x": 90
+    }
+  }
+}

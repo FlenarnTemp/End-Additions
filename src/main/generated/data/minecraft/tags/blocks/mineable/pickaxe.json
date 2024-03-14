@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "end_additions:polished_end_stone",
+    "end_additions:polished_end_stone_slab",
+    "end_additions:polished_end_stone_stairs",
+    "end_additions:end_stone_tiles",
+    "end_additions:end_stone_tiles_slab",
+    "end_additions:end_stone_tiles_stairs",
+    "end_additions:end_stone_tiles_wall",
+    "end_additions:chiseled_end_stone"
+  ]
+}

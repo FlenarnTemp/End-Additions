@@ -1,0 +1,14 @@
+{
+  "itemgroup.EndAdditions": "End Additions",
+
+  "block.end_additions.chiseled_end_stone": "Chiseled End Stone",
+
+  "block.end_additions.end_stone_tiles": "End Stone Tiles",
+  "block.end_additions.end_stone_tiles_slab": "End Stone Tiles Slab",
+  "block.end_additions.end_stone_tiles_stairs": "End Stone Tiles Stairs",
+  "block.end_additions.end_stone_tiles_wall": "End Stone Tiles Wall",
+
+  "block.end_additions.polished_end_stone": "Polished End Stone",
+  "block.end_additions.polished_end_stone_slab": "Polished End Stone Slab",
+  "block.end_additions.polished_end_stone_stairs": "Polished End Stone Stairs"
+}
